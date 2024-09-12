@@ -7,4 +7,7 @@ ask me about scratch or python
 you can reach me at snapchat:kill727205 or messenger:jimmy or email me at jimmy02ta@gmail.com
 pronous:male
 fun fact:python is used for most ai platforms 
-
+technology stack
+block codeing python
+frame work
+robot motors
